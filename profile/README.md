@@ -1,6 +1,6 @@
-# webai-at-home
+# WebAI@Home
 
-webai-at-home explores whether idle web browsers can work together to run
+WebAI@Home explores whether idle web browsers can work together to run
 large language models that are too large for any one volunteer device.
 
 The project aims to make volunteer computing as simple as opening a web page.
@@ -37,7 +37,7 @@ model partitioning across different devices.
 
 ## Get started
 
-See the [webai-at-home repository](https://github.com/webai-at-home/webai-at-home)
+See the [WebAI@Home repository](https://github.com/webai-at-home/webai-at-home)
 for the source code, setup instructions, package documentation, and current
 research notes.
 
